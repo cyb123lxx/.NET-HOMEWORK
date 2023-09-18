@@ -1,0 +1,17 @@
+D:\vs\项目\homework1\bin\Debug\net6.0-windows\homework1.exe
+D:\vs\项目\homework1\bin\Debug\net6.0-windows\homework1.deps.json
+D:\vs\项目\homework1\bin\Debug\net6.0-windows\homework1.runtimeconfig.json
+D:\vs\项目\homework1\bin\Debug\net6.0-windows\homework1.dll
+D:\vs\项目\homework1\bin\Debug\net6.0-windows\homework1.pdb
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\homework1.Form1.resources
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\homework1.csproj.GenerateResource.cache
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\homework1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\homework1.AssemblyInfoInputs.cache
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\homework1.AssemblyInfo.cs
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\homework1.csproj.CoreCompileInputs.cache
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\homework1.dll
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\refint\homework1.dll
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\homework1.pdb
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\homework1.genruntimeconfig.cache
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\ref\homework1.dll
+D:\vs\项目\homework1\obj\Debug\net6.0-windows\AutoQuiz.Form1.resources
