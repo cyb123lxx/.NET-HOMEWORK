@@ -1,0 +1,14 @@
+D:\vs\项目\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.exe
+D:\vs\项目\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.deps.json
+D:\vs\项目\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.runtimeconfig.json
+D:\vs\项目\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.dll
+D:\vs\项目\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.pdb
+D:\vs\项目\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\项目\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.AssemblyInfoInputs.cache
+D:\vs\项目\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.AssemblyInfo.cs
+D:\vs\项目\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.csproj.CoreCompileInputs.cache
+D:\vs\项目\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.dll
+D:\vs\项目\HOMEWORK2\obj\Debug\net6.0\refint\HOMEWORK2.dll
+D:\vs\项目\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.pdb
+D:\vs\项目\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.genruntimeconfig.cache
+D:\vs\项目\HOMEWORK2\obj\Debug\net6.0\ref\HOMEWORK2.dll
